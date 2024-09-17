@@ -1,0 +1,4 @@
+art
+pick
+simple_term_menu
+ping3
